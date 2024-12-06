@@ -1,0 +1,35 @@
+body {
+    width: 300px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+#news-container {
+    text-align: left;
+}
+
+#news-list {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.news-item {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.news-item h2 {
+    font-size: 14px;
+    margin: 0 0 5px;
+}
+
+.news-item p {
+    font-size: 12px;
+    margin: 0;
+}
+
+.news-item a {
+    text-decoration: none;
+    color: #2196f3;
+}
