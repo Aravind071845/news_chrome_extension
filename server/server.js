@@ -8,7 +8,8 @@ app.use(cors());
 env.config();
 
 const apiKey = process.env.NEWS_API_KEY;
-const apiUrl = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`;
+const code = process.env.COUNTRY_CODE;
+const apiUrl = `https://newsapi.org/v2/top-headlines?country=${code}&apiKey=${apiKey}`;
 
 app.get('/news', async (req, res) => {
     try {
