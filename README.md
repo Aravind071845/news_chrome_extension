@@ -8,15 +8,15 @@ The extension provides a simple popup interface that dynamically shows news arti
 
  Features
 
- 1.Live News Updates – Fetches real-time headlines from the News API.
+ 1. Live News Updates – Fetches real-time headlines from the News API.
 
- 2.Custom Chrome Extension – Popup interface built with HTML, CSS, and JavaScript.
+ 2. Custom Chrome Extension – Popup interface built with HTML, CSS, and JavaScript.
 
- 3.Node.js Backend – Processes and serves news data to the extension.
+ 3. Node.js Backend – Processes and serves news data to the extension.
 
- 4.API Integration – Uses node-fetch to connect with the News API.
+ 4. API Integration – Uses node-fetch to connect with the News API.
 
- 5.Lightweight UI – Minimal, responsive design for quick browsing.
+ 5. Lightweight UI – Minimal, responsive design for quick browsing.
 
 ---
 
