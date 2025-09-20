@@ -37,7 +37,7 @@ External API: News API
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/real-time-news-aggregator.git
+git clone https://github.com/your-username/news_chrome_extension.git
 ```
 2. Setup backend
 
